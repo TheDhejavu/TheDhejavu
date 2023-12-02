@@ -6,4 +6,5 @@ I'm obsessed with building resilience systems and doing work that matters. Over 
 ## On the Web
 
 - [Twitter](https://twitter.com/ayodeji0x0)
-- [Website](https://ayodejiakinola.com)
+- [Personal Website](https://ayodejiakinola.com)
+- [Medium](https://ayoakinola.medium.com)

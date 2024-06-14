@@ -1,10 +1,22 @@
-Hi, I'm Ayodeji, a computer science graduate and a detailed-oriented Software Engineer interested in systems, problem-solving, and everything in-between. I spend quality time exploring the intersection of research and software engineering. 
+# About me 👋
 
-I'm obsessed with building resilience systems and doing work that matters.Throughout my journey, I've been involved in the development of diverse projects, including blockchain protocols, Event-driven systems, API integrations, Backend Systems, Web Applications, Consensus Algorithms, Trading Protocol (FIX). 
+Interested in distributed systems, computational finance & decentralized protocols
 
+## Projects: Distributed Systems
+
+- [`rust-raft`](https://github.com/TheDhejavu/rust-raft) - raft consensus protocol
+- [`hashring-rs`](https://github.com/TheDhejavu/hashring-rs) - consistent hashing in rust
+
+## Research
+- [`ev-blockchain-protocol`](https://github.com/TheDhejavu/ev-blockchain-protocol) - E-voting blockchain protocol using Ring Signature.
+  
+## Projects: Other
+- [`gandalf-sdk-go`](https://github.com/gandalf-network/gandalf-sdk-go) - Gandalf SDK
+- [`plagiarism-checker`](https://github.com/TheDhejavu/plagiarism-checker) - Plagiarism Rate Checker Using Rabin-Karp String Matching Algorithm
+- [`gql-rs`](https://github.com/TheDhejavu/gql-rs) - A Rust library designed to streamline working with GraphQL.
+- [`the-crypto-project`](https://github.com/TheDhejavu/the-crypto-project) - Go Blockchain implementation with P2p, Proof of work features
 
 ## On the Web
 
-- [Twitter](https://twitter.com/ayodeji0x0)
-- [Website](https://ayodejiakinola.com)
-- [Medium](https://ayoakinola.medium.com)
+- [`twitter.com/ayodeji0x0`](https://twitter.com/ayodeji0x0)
+- [`ayodejiakinola.com`](https://ayodejiakinola.com)

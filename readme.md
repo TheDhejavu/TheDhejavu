@@ -4,8 +4,9 @@ Interested in distributed systems, computational finance & decentralized protoco
 
 ## Projects: Distributed Systems
 
-- [`rust-raft`](https://github.com/TheDhejavu/rust-raft) - raft consensus protocol
-- [`hashring-rs`](https://github.com/TheDhejavu/hashring-rs) - consistent hashing in rust
+- [`rust-raft`](https://github.com/TheDhejavu/rust-raft) - Rust Implementation of raft consensus protocol
+- [`hashring-rs`](https://github.com/TheDhejavu/hashring-rs) - Consistent hashing implementation in rust
+- [`logical-clocks-rs`](https://github.com/TheDhejavu/logical-clocks-rs) - Rust Implementation of various logical clocks in the ordering of system events.
 
 ## Research
 - [`ev-blockchain-protocol`](https://github.com/TheDhejavu/ev-blockchain-protocol) - E-voting blockchain protocol using Ring Signature.

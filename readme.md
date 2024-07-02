@@ -16,7 +16,7 @@ Interested in distributed systems, computational finance & decentralized protoco
 - [`plagiarism-checker`](https://github.com/TheDhejavu/plagiarism-checker) - Plagiarism Rate Checker Using Rabin-Karp String Matching Algorithm
 - [`gql-rs`](https://github.com/TheDhejavu/gql-rs) - A Rust library designed to streamline working with GraphQL.
 - [`the-crypto-project`](https://github.com/TheDhejavu/the-crypto-project) - Go Blockchain implementation with P2p, Proof of work features
-
+- [`appattest-rs`](https://github.com/TheDhejavu/appattest-rs) Rust module for validating Apple app attestations and assertions.
 ## On the Web
 
 - [`twitter.com/ayodeji0x0`](https://twitter.com/ayodeji0x0)

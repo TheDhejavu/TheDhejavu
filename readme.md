@@ -15,6 +15,7 @@ Interested in distributed systems, computational finance & decentralized protoco
 - [`appattest-rs`](https://github.com/TheDhejavu/appattest-rs) Rust module for validating Apple app attestations and assertions.
 - [`gandalf-sdk-go`](https://github.com/gandalf-network/gandalf-sdk-go) - Gandalf SDK
 - [`gql-rs`](https://github.com/TheDhejavu/gql-rs) - A Rust library designed to streamline working with GraphQL.
+- [`ratelimiter-rs`](https://github.com/TheDhejavu/ratelimiter-rs) A Rust implementation of Sliding Window Algorithm for distributed rate limiting
 - [`the-crypto-project`](https://github.com/TheDhejavu/the-crypto-project) - Go Blockchain implementation with P2p, Proof of work features
 - [`plagiarism-checker`](https://github.com/TheDhejavu/plagiarism-checker) - Plagiarism Rate Checker Using Rabin-Karp String Matching Algorithm
 ## On the Web

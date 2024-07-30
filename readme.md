@@ -8,9 +8,6 @@ Interested in distributed systems, computational finance & decentralized protoco
 - [`hashring-rs`](https://github.com/TheDhejavu/hashring-rs) - Consistent hashing implementation in rust
 - [`logical-clocks-rs`](https://github.com/TheDhejavu/logical-clocks-rs) - Implementation of various logical clocks in the ordering of system events in rust.
 
-## Research
-- [`ev-blockchain-protocol`](https://github.com/TheDhejavu/ev-blockchain-protocol) - E-voting blockchain protocol using Ring Signature.
-  
 ## Projects: Other
 - [`appattest-rs`](https://github.com/TheDhejavu/appattest-rs) Rust module for validating Apple app attestations and assertions.
 - [`gandalf-sdk-go`](https://github.com/gandalf-network/gandalf-sdk-go) - Gandalf SDK (Go code generator)

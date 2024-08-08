@@ -3,7 +3,7 @@
 Interested in distributed systems, computational finance & decentralized protocols
 
 ## Projects: Distributed Systems
-- [`gossipod`](https://github.com/TheDhejavu/gossipod) - Scalable Weakly-consistent Infection-style Process Group Membership Protocol implementation written in Rust.
+- [`gossipod`](https://github.com/TheDhejavu/gossipod) - A Scalable Membership Protocol for Distributed Systems, written in Rust.
 - [`rust-raft`](https://github.com/TheDhejavu/rust-raft) - Rust Implementation of raft consensus protocol
 - [`hashring-rs`](https://github.com/TheDhejavu/hashring-rs) - Consistent hashing implementation in rust
 - [`logical-clocks-rs`](https://github.com/TheDhejavu/logical-clocks-rs) - Implementation of various logical clocks in the ordering of system events in rust.

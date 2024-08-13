@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me 👋
+Distributed systems, computational finance & decentralized protocols enthusiast
 
-<!--
-**TheDhejavu/TheDhejavu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Notable Projects
+- [`gossipod`](https://github.com/TheDhejavu/gossipod): Scalable Membership Protocol For Distributed System (Rust)
+- [`rust-raft`](https://github.com/TheDhejavu/rust-raft): Raft consensus implementation
+- [`hashring-rs`](https://github.com/TheDhejavu/hashring-rs): Consistent hashing in Rust
+- [`appattest-rs`](https://github.com/TheDhejavu/appattest-rs): Rust module for validating Apple app attestations and assertions.
+- [`gandalf-sdk-go`](https://github.com/gandalf-network/gandalf-sdk-go): Gandalf SDK (Go)
+- [`gql-rs`](https://github.com/TheDhejavu/gql-rs): GraphQL Rust library
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## On The Web
+- Twitter: [`@ayodeji0x0`](https://twitter.com/ayodeji0x0)
+- Website: [`ayodejiakinola.com`](https://ayodejiakinola.com)

@@ -1,5 +1,5 @@
 # About me 👋
-Distributed systems, infra & Protocols.
+Distributed systems, Infra & Protocols.
 
 ## Notable Projects
 - [`gossipod`](https://github.com/TheDhejavu/gossipod): Scalable Membership Protocol For Distributed System (Rust)

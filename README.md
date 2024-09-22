@@ -1,5 +1,5 @@
 # About me 👋
-Distributed systems, computational finance & decentralized protocols enthusiast
+Distributed systems, infra & Protocols.
 
 ## Notable Projects
 - [`gossipod`](https://github.com/TheDhejavu/gossipod): Scalable Membership Protocol For Distributed System (Rust)

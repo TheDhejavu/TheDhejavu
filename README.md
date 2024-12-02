@@ -4,7 +4,7 @@ Distributed systems, Infra & Protocols.
 ## Notable Projects
 - [`gossipod`](https://github.com/TheDhejavu/gossipod): Scalable Membership Protocol For Distributed System (Rust)
 - [`rust-raft`](https://github.com/TheDhejavu/rust-raft): Raft consensus implementation
-- [`andrew-filesystem`](https://github.com/TheDhejavu/andrew-filesystem) The DFS Andrew File System
+- [`andrew-filesystem`](https://github.com/TheDhejavu/andrew-filesystem) The Andrew File System (AFS)
 - [`hashring-rs`](https://github.com/TheDhejavu/hashring-rs): Consistent hashing in Rust
 - [`appattest-rs`](https://github.com/TheDhejavu/appattest-rs): Rust module for validating Apple app attestations and assertions.
 - [`gandalf-sdk-go`](https://github.com/gandalf-network/gandalf-sdk-go): Gandalf SDK (Go)

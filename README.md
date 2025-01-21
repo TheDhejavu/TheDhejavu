@@ -9,5 +9,4 @@ Distributed systems, Infra & Protocols.
 - [`appattest-rs`](https://github.com/TheDhejavu/appattest-rs): Rust module for validating Apple app attestations and assertions.
 
 ## On The Web
-- Twitter: [`@ayodeji0x0`](https://twitter.com/ayodeji0x0)
 - Website: [`ayodejiakinola.com`](https://ayodejiakinola.com)
